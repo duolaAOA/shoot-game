@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+*.swp
+*.log
+go.sum
+logs/
+vendor/
